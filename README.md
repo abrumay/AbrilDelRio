@@ -1,11 +1,6 @@
-<div align="center">
+
 
 <img src="Captura de pantalla 2025-12-17 203059.png" width="100%" alt="Abril del Rio - Técnica en Programación">
-
-
-<div align="center">
-
-
 
 ---
 
